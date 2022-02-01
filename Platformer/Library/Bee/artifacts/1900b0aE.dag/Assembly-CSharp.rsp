@@ -351,6 +351,7 @@
 "Assets/Scripts/Health.cs"
 "Assets/Scripts/HealthBar.cs"
 "Assets/Scripts/Medkit.cs"
+"Assets/Scripts/Menu.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/PlayerInventory.cs"
 "Assets/Scripts/TakeDamage.cs"
